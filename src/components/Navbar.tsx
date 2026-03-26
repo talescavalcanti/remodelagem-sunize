@@ -103,14 +103,14 @@ export const Navbar = () => {
         <Image src="/logo-1.png" alt="Sunize" width={140} height={40} className="h-8 w-auto object-contain" priority />
       </div>
       <div ref={linksRef} className="hidden md:flex items-center gap-5 mx-8">
-        <a className="text-primary-container font-semibold text-sm hover:text-primary-container hover:scale-105 transition-all duration-300 active:scale-95" href="#">Features</a>
-        <a className="text-zinc-400 font-medium text-sm hover:text-primary-container hover:scale-105 transition-all duration-300 active:scale-95" href="#">Solutions</a>
-        <a className="text-zinc-400 font-medium text-sm hover:text-primary-container hover:scale-105 transition-all duration-300 active:scale-95" href="#">Pricing</a>
-        <a className="text-zinc-400 font-medium text-sm hover:text-primary-container hover:scale-105 transition-all duration-300 active:scale-95" href="#">Affiliates</a>
+        <a className="text-primary-container font-semibold text-sm hover:text-primary-container hover:scale-105 transition-all duration-300 active:scale-95" href="#">Recursos</a>
+        <a className="text-zinc-400 font-medium text-sm hover:text-primary-container hover:scale-105 transition-all duration-300 active:scale-95" href="#">Soluções</a>
+        <a className="text-zinc-400 font-medium text-sm hover:text-primary-container hover:scale-105 transition-all duration-300 active:scale-95" href="#">Preços</a>
+        <a className="text-zinc-400 font-medium text-sm hover:text-primary-container hover:scale-105 transition-all duration-300 active:scale-95" href="#">Afiliados</a>
       </div>
       <div ref={actionsRef} className="flex items-center gap-3">
-        <button className="text-zinc-400 font-medium hover:text-white transition-colors text-sm px-3 cursor-pointer">Login</button>
-        <button className="primary-gradient text-on-primary font-bold px-5 py-2 rounded-full hover:scale-105 active:scale-95 transition-all shadow-lg shadow-primary-container/20 text-sm cursor-pointer">Get Started</button>
+        <button className="text-zinc-400 font-medium hover:text-white transition-colors text-sm px-3 cursor-pointer">Entrar</button>
+        <button className="primary-gradient text-on-primary font-bold px-5 py-2 rounded-full hover:scale-105 active:scale-95 transition-all shadow-lg shadow-primary-container/20 text-sm cursor-pointer">Começar Agora</button>
       </div>
     </nav>
   );
