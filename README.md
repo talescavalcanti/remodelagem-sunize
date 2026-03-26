@@ -531,7 +531,7 @@ Este projeto foi desenvolvido para prática e demonstração de habilidades em d
 
 Se você tiver dúvidas sobre o código ou quiser entrar em contato:
 
-- **GitHub:** [Seu perfil GitHub]
+- **GitHub:** [https://github.com/talescavalcanti]
 - **LinkedIn:** [www.linkedin.com/in/tales-cavalcanti-66730835a]
 
 ---
